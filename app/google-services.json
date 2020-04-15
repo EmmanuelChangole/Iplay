@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224563046429",
+    "firebase_url": "https://iplay-8096d.firebaseio.com",
+    "project_id": "iplay-8096d",
+    "storage_bucket": "iplay-8096d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224563046429:android:dff4e943a4550c2a3e7ef4",
+        "android_client_info": {
+          "package_name": "com.iplaymusic.iplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224563046429-ssqikekvomftg5ih6tgs3g5msaich439.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iplaymusic.iplay",
+            "certificate_hash": "5d61b66f74a366528e3b7f2c7f60cbf3bec301dc"
+          }
+        },
+        {
+          "client_id": "224563046429-l23ef2ib0bu4nghju4ota15cf8qr8lud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACTKSrspj2ioLj5AJCxrqbseTREYjovt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224563046429-l23ef2ib0bu4nghju4ota15cf8qr8lud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
